@@ -23,3 +23,19 @@ maximum | максимум | maksimum
 minimum | минимум | minimum
 ok | ок | yaxshi
 set | множество | to'plam
+static | статичный | turg'un
+dynamic | динамичный | faol
+class | класс | синф
+type | тип | tur
+interface | интерфейс | interfeys
+symbol | символ | ramz
+dictionary | словарь | lug'at
+array | массив | yaxlid
+list | список | ro'yxat
+character | знак | belgi
+abstract | абстрактный | mavhum
+virtual | виртуальный | tasavvurdagi
+string | строка | qator
+integer | целое число | butun son
+float | число с плавающей точкой (дробное число) | kasr
+double | число с плавающей точкой двойной точности | ikkilangan aniqlikli kasr
