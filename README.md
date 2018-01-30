@@ -9,11 +9,11 @@ project | проект | loyiha
 compiler | компилятор | tuzgich
 assembly | ассемблер | yig'gich
 interpreter | интерпритатор | izohlagich
-email | email | e-hat, e-maktub
+email | электронная почта | elektron pochta
 command line | коммандная строка | buyruqlar qatori
 shell | shell | shell
 node | узел | tugun
-function | функция | faoliyat
+function | функция | funksiya
 element | элемент | unsur
 module | модуль | bo'lim
 variable | переменная | o'zgaruvchan
@@ -22,3 +22,4 @@ loop | цикл | davr
 maximum | максимум | maksimum
 minimum | минимум | minimum
 ok | ок | yaxshi
+set | множество | to'plam
