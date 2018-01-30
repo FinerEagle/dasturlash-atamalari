@@ -13,7 +13,7 @@ email | электронная почта | elektron pochta
 command line | коммандная строка | buyruqlar qatori
 shell | shell | shell
 node | узел | tugun
-function | функция | funksiya
+function | функция | faoliyat
 element | элемент | unsur
 module | модуль | bo'lim
 variable | переменная | o'zgaruvchan
