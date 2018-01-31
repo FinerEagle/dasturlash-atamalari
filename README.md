@@ -41,3 +41,11 @@ float | число с плавающей точкой (дробное число
 double | число с плавающей точкой двойной точности | ikkilangan aniqlikli kasr
 text editor | текстовый редактор | matn muharriri
 extension | расширение | kengaytma
+browser | браузер | ?
+computer | компьютер | kompyuter
+electronic board | электронная плата | elektron taxtasi?
+random access memory | оперативная память | muolaja xotirasi
+hard disk drive | жесткий диск | ?
+motherboard | материнская плата | ona taxtasi?
+keyboard | клавиатура | tugmalar taxtasi?
+web | веб | veb
