@@ -39,3 +39,5 @@ string | строка | qator
 integer | целое число | butun son
 float | число с плавающей точкой (дробное число) | kasr
 double | число с плавающей точкой двойной точности | ikkilangan aniqlikli kasr
+text editor | текстовый редактор | matn muharriri
+extension | расширение | kengaytma
