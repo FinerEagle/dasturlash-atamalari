@@ -49,3 +49,4 @@ hard disk drive | жесткий диск | ?
 motherboard | материнская плата | ona taxtasi?
 keyboard | клавиатура | tugmalar taxtasi?
 web | веб | veb
+quotes | кавычки | qo'shtirnoq
