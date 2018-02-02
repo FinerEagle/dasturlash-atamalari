@@ -50,3 +50,7 @@ motherboard | материнская плата | ona taxtasi?
 keyboard | клавиатура | tugmalar taxtasi?
 web | веб | veb
 quotes | кавычки | qo'shtirnoq
+calendar | календарь | taqvim
+link | ссылка | havola
+hyperlink | гиперссылка | giper-havola
+property | свойство | xossa
