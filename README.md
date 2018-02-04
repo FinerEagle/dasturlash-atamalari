@@ -37,6 +37,7 @@ abstract | абстрактный | mavhum
 virtual | виртуальный | tasavvurdagi
 string | строка | qator
 integer | целое число | butun son
+tuple | кортеж | ?
 float | число с плавающей точкой (дробное число) | kasr
 double | число с плавающей точкой двойной точности | ikkilangan aniqlikli kasr
 text editor | текстовый редактор | matn muharriri
@@ -54,3 +55,15 @@ calendar | календарь | taqvim
 link | ссылка | havola
 hyperlink | гиперссылка | giper-havola
 property | свойство | xossa
+version | версия | ?
+mode | режим | tartibot
+format | формат | shakl
+start | запуск | ?
+framework | фреймворк | синч
+library | библиотека | kutubxona
+expression | выражение | ifoda
+positive | положительный | musbat
+negative | отрицательный | manfiy
+modulo | остаток от деления | qoldiqlik
+compare | сравнивание | taqqoslash
+logic | логика | mantiq
