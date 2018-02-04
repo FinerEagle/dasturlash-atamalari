@@ -37,7 +37,7 @@ abstract | абстрактный | mavhum
 virtual | виртуальный | tasavvurdagi
 string | строка | qator
 integer | целое число | butun son
-tuple | кортеж | ?
+tuple | кортеж | shoda? dasta? (связка)
 float | число с плавающей точкой (дробное число) | kasr
 double | число с плавающей точкой двойной точности | ikkilangan aniqlikli kasr
 text editor | текстовый редактор | matn muharriri
