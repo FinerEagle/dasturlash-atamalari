@@ -73,3 +73,4 @@ virtual machine | виртуальная машина | tasavvurdagi dastgoh
 software | программное обеспечение | dasturiy ta'minot
 hardware | аппаратное обчеспечение | qurilmaviy ta'minot?
 script | скрипт | ?
+account | учетная запись | qayd yozuvi
