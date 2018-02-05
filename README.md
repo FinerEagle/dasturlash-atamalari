@@ -67,3 +67,6 @@ negative | отрицательный | manfiy
 modulo | остаток от деления | qoldiqlik
 compare | сравнивание | taqqoslash
 logic | логика | mantiq
+object | объект | ?
+run time | время выполнения | bajarilish vaqti
+virtual machine | виртуальная машина | tasavvurdagi dastgoh
