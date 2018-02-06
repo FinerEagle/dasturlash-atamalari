@@ -26,7 +26,7 @@ set | множество | to'plam
 static | статичный | turg'un
 dynamic | динамичный | faol
 class | класс | синф
-type | тип | tur
+type | тип | tur, toifa
 interface | интерфейс | interfeys
 symbol | символ | ramz
 dictionary | словарь | lug'at
@@ -74,3 +74,9 @@ software | программное обеспечение | dasturiy ta'minot
 hardware | аппаратное обчеспечение | qurilmaviy ta'minot?
 script | скрипт | ?
 account | учетная запись | qayd yozuvi
+
+
+
+Tarmoqlanuvchi operatorlar
+Takrorlanuvchi operatorlar
+Toifalar va amallar
