@@ -69,7 +69,7 @@ compare | сравнивание | taqqoslash
 logic | логика | mantiq
 object | объект | ?
 run time | время выполнения | bajarilish vaqti
-virtual machine | виртуальная машина | tasavvurdagi dastgoh
+virtual machine | виртуальная машина | tasavvurdagi qurilma (dastgoh?)
 software | программное обеспечение | dasturiy ta'minot
 hardware | аппаратное обчеспечение | qurilmaviy ta'minot?
 script | скрипт | ?
