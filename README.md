@@ -74,7 +74,7 @@ software | программное обеспечение | dasturiy ta'minot
 hardware | аппаратное обчеспечение | qurilmaviy ta'minot?
 script | скрипт | ?
 account | учетная запись | qayd yozuvi
-
+dimension | измерение | o'lcham
 
 
 Tarmoqlanuvchi operatorlar
