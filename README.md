@@ -35,7 +35,8 @@ list | список | ro'yxat
 character | знак | belgi
 abstract | абстрактный | mavhum
 virtual | виртуальный | tasavvurdagi
-string | строка | qator
+string | строка | satr
+line | линия | qator
 integer | целое число | butun son
 tuple | кортеж | shoda? dasta? (связка)
 float | число с плавающей точкой (дробное число) | kasr
@@ -75,7 +76,8 @@ hardware | аппаратное обчеспечение | qurilmaviy ta'minot?
 script | скрипт | ?
 account | учетная запись | qayd yozuvi
 dimension | измерение | o'lcham
-
+assign | biriktirish
+print | shop etish
 
 Tarmoqlanuvchi operatorlar
 Takrorlanuvchi operatorlar
