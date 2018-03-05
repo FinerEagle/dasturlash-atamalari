@@ -72,7 +72,7 @@ object | объект | ?
 run time | время выполнения | bajarilish vaqti
 virtual machine | виртуальная машина | tasavvurdagi qurilma (dastgoh?)
 software | программное обеспечение | dasturiy ta'minot
-hardware | аппаратное обчеспечение | qurilmaviy ta'minot?
+hardware | аппаратное обчеспечение | qurilmaviy ta'minot? (texnik ta'minot)
 script | скрипт | ?
 account | учетная запись | qayd yozuvi
 dimension | измерение | o'lcham
