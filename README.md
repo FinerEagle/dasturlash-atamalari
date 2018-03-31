@@ -25,12 +25,12 @@ ok | ок | yaxshi
 set | множество | to'plam
 static | статичный | turg'un
 dynamic | динамичный | faol
-class | класс | синф
+class | класс | sinf
 type | тип | toifa
 interface | интерфейс | interfeys
 symbol | символ | ramz
 dictionary | словарь | lug'at
-array | массив | yaxlid
+array | массив | ?
 list | список | ro'yxat
 character | знак | belgi
 abstract | абстрактный | mavhum
@@ -61,7 +61,7 @@ mode | режим | tartibot
 model | модель | andoza
 format | формат | shakl
 start | запуск | ishga tushirmoq
-framework | фреймворк | синч
+framework | фреймворк | sinch
 library | библиотека | kutubxona
 expression | выражение | ifoda
 positive | положительный | musbat
@@ -78,7 +78,7 @@ script | скрипт | ?
 account | учетная запись | qayd yozuvi
 dimension | измерение | o'lcham
 assign | назначить | biriktirish
-print | печатать | shop etish
+print | печатать | сhop etish
 
 Tarmoqlanuvchi operatorlar
 Takrorlanuvchi operatorlar
