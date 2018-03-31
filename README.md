@@ -13,7 +13,7 @@ email | электронная почта | elektron pochta
 command line | коммандная строка | buyruqlar qatori
 shell | shell | shell
 node | узел | tugun
-function | функция | faoliyat
+function | функция | ?
 element | элемент | unsur
 module | модуль | bo'lim
 variable | переменная | o'zgaruvchan
@@ -26,7 +26,7 @@ set | множество | to'plam
 static | статичный | turg'un
 dynamic | динамичный | faol
 class | класс | синф
-type | тип | tur, toifa
+type | тип | toifa
 interface | интерфейс | interfeys
 symbol | символ | ramz
 dictionary | словарь | lug'at
@@ -55,11 +55,12 @@ quotes | кавычки | qo'shtirnoq
 calendar | календарь | taqvim
 link | ссылка | havola
 hyperlink | гиперссылка | giper-havola
-property | свойство | xossa
+property | свойство | xususiyat
 version | версия | ?
 mode | режим | tartibot
+model | модель | andoza
 format | формат | shakl
-start | запуск | ?
+start | запуск | ishga tushirmoq
 framework | фреймворк | синч
 library | библиотека | kutubxona
 expression | выражение | ifoda
@@ -70,14 +71,14 @@ compare | сравнивание | taqqoslash
 logic | логика | mantiq
 object | объект | ?
 run time | время выполнения | bajarilish vaqti
-virtual machine | виртуальная машина | tasavvurdagi qurilma (dastgoh?)
+virtual machine | виртуальная машина | tasavvurdagi qurilma
 software | программное обеспечение | dasturiy ta'minot
 hardware | аппаратное обчеспечение | qurilmaviy ta'minot? (texnik ta'minot)
 script | скрипт | ?
 account | учетная запись | qayd yozuvi
 dimension | измерение | o'lcham
-assign | biriktirish
-print | shop etish
+assign | назначить | biriktirish
+print | печатать | shop etish
 
 Tarmoqlanuvchi operatorlar
 Takrorlanuvchi operatorlar
