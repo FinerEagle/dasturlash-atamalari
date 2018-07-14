@@ -11,7 +11,8 @@ assembly | ассемблер | yig'gich
 interpreter | интерпритатор | izohlagich
 email | электронная почта | elektron pochta
 command line | коммандная строка | buyruqlar qatori
-shell | shell | shell
+unix shell | unix shell | unix shell
+shell | оболочка | qobiq
 node | узел | tugun
 function | функция | ?
 element | элемент | unsur
@@ -19,22 +20,23 @@ module | модуль | bo'lim
 variable | переменная | o'zgaruvchan
 constant | константа | o'zgarmas miqdor
 loop | цикл | davr
-maximum | максимум | maksimum
+maximum | максимум | maksimum, avj?
 minimum | минимум | minimum
 ok | ок | yaxshi
 set | множество | to'plam
-static | статичный | turg'un
-dynamic | динамичный | faol
+static | статичный | barqaror, turg'un
+dynamic | динамичный | harakatlanuvchi
+active | активный | faol
 class | класс | sinf
 type | тип | toifa
 interface | интерфейс | interfeys
 symbol | символ | ramz
 dictionary | словарь | lug'at
-array | массив | ?
+array | массив | mavze?
 list | список | ro'yxat
 character | знак | belgi
 abstract | абстрактный | mavhum
-virtual | виртуальный | tasavvurdagi
+virtual | виртуальный | tasavvurdagi?
 string | строка | satr
 line | линия | qator
 integer | целое число | butun son
@@ -43,23 +45,24 @@ float | число с плавающей точкой (дробное число
 double | число с плавающей точкой двойной точности | ikkilangan aniqlikli kasr
 text editor | текстовый редактор | matn muharriri
 extension | расширение | kengaytma
-browser | браузер | ?
+browser | браузер | brauzer?
 computer | компьютер | kompyuter
 electronic board | электронная плата | elektron taxtasi?
-random access memory | оперативная память | muolaja xotirasi
+random access memory | оперативная память | muolaja xotirasi, tezkor hotira?
 hard disk drive | жесткий диск | ?
 motherboard | материнская плата | ona taxtasi?
 keyboard | клавиатура | tugmalar taxtasi?
-web | веб | veb
+web | веб | dunyoviy to'r?
+net | сеть | to'r
 quotes | кавычки | qo'shtirnoq
 calendar | календарь | taqvim
 link | ссылка | havola
 hyperlink | гиперссылка | giper-havola
 property | свойство | xususiyat
 version | версия | ?
-mode | режим | tartibot
+mode | режим | tuzum? tartibot?
 model | модель | andoza
-format | формат | shakl
+format | формат | shakl ?
 start | запуск | ishga tushirmoq
 framework | фреймворк | sinch
 library | библиотека | kutubxona
@@ -78,7 +81,18 @@ script | скрипт | ?
 account | учетная запись | qayd yozuvi
 dimension | измерение | o'lcham
 assign | назначить | biriktirish
-print | печатать | сhop etish
+print | печатать | bosish, сhop etish
+category | категория | toifa
+archive | архив | xazina
+administrator | администратор | ma’mur
+data warehouse | ? | ma’lumotlar ombori
+procedure | процедура | muolaja
+tag | тег | yorliq so'z
+communication | коммуникация | aloqa almashuvi
+branching | развлетвление | tarmoqlanish
+action | действие | amal
+structure | структура | tuzilma
+version | версия | talqin
 
 Tarmoqlanuvchi operatorlar
 Takrorlanuvchi operatorlar
