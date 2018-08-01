@@ -1,4 +1,7 @@
-## O'ylab to'pilgan so'zlar bor.
+## O‘ylab topilgan so‘zlar bor.
+
+Albatta bu lug‘atda nuqsonlar bor, balki tarjima qilinish kerak emas bo‘lgan so‘zlar ham bor.
+Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarga o‘zbek tarjimasini topish.
 
 ingliz | rus | o'zbek
 --- | --- | ---
