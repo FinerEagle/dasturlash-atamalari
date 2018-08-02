@@ -1,6 +1,6 @@
 ## O‘ylab topilgan so‘zlar bor.
 
-Albatta bu lug‘atda nuqsonlar bor, balki tarjima qilinish kerak emas bo‘lgan so‘zlar ham bor.
+Albatta bu lug‘atda nuqsonlar bor, balki tarjima qinmaydigan so‘zlar ham bor.
 Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini topish.
 
 ingliz | rus | o'zbek
@@ -58,8 +58,8 @@ keyboard | клавиатура | tugmalar taxtasi?
 web | веб | dunyoviy to'r?
 net | сеть | to'r
 quotes | кавычки | qo'shtirnoq
-calendar | календарь | taqvim
-link | ссылка | havola
+calendar | календарь | taqvim (google taqvimdan olingan)
+link | ссылка | havola (bu tarjima ishlatiladi)
 hyperlink | гиперссылка | giper-havola
 property | свойство | xususiyat
 version | версия | ?
@@ -81,7 +81,7 @@ virtual machine | виртуальная машина | tasavvurdagi qurilma
 software | программное обеспечение | dasturiy ta'minot
 hardware | аппаратное обчеспечение | qurilmaviy ta'minot? (texnik ta'minot)
 script | скрипт | ?
-account | учетная запись | qayd yozuvi
+account | учетная запись | qayd yozuvi, hisob qaydnomasi (Microsoft launcher for Android)
 dimension | измерение | o'lcham
 assign | назначить | biriktirish
 print | печатать | bosish, сhop etish
@@ -95,8 +95,41 @@ communication | коммуникация | aloqa almashuvi
 branching | развлетвление | tarmoqlanish
 action | действие | amal
 structure | структура | tuzilma
-version | версия | talqin
+version | версия | talqin (https://git-scm.com/book/uz/v2/)
+scroll | прокручивать |
+to pause | приостановить |
+pause | пауза |
+contatenation | конкатенация | ?
+spread | ? | ?
+hash | хеш | ?
+cache | кеш | kash (ingliz tilidan olingan, shu deb 'kesh' emas) ?
+Tilde (~) | Тильда, волнистая черта? | To'lqin chiziq?
+Sharp (#) | Решетка | Panjara
+Back quote (`) | |
+(!) | |
+(@) | |
+(%) | |
+(^) | |
+(*) | |
+(-) | |
+({) | |
+([) | |
+(|) | |
+(\) | |
+(/) | |
+(:) | |
+(;) | |
+(>) | |
+(<) | |
+(<=) | |
+(>=) | |
+(.) | |
+(,) | |
+(?) | |
 
 Tarmoqlanuvchi operatorlar
 Takrorlanuvchi operatorlar
 Toifalar va amallar
+
+=============
+Ruxsatnoma CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
