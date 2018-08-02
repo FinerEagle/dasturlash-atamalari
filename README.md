@@ -109,6 +109,9 @@ Absolute | Абсолютный | Mutloq
 Relative | Относительный | Nisbiy
 Spam/Junk | Спам | Nomaqbul
 Folder/Directory | Папка | Jild (`Google Android`, `Microsoft Outlook` dan olingan)
+Content | Содержимое, контент | Tarkib
+Class method | метод класса | sinfning usuli
+Method | способ | usuli
 Back quote (`) | |
 (!) | |
 (@) | |
