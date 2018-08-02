@@ -81,7 +81,7 @@ virtual machine | виртуальная машина | tasavvurdagi qurilma
 software | программное обеспечение | dasturiy ta'minot
 hardware | аппаратное обчеспечение | qurilmaviy ta'minot? (texnik ta'minot)
 script | скрипт | ?
-account | учетная запись | qayd yozuvi, hisob qaydnomasi (Microsoft launcher for Android)
+account | учетная запись | qayd yozuvi, hisob qaydnomasi (`Microsoft launcher for Android` dan olingan)
 dimension | измерение | o'lcham
 assign | назначить | biriktirish
 print | печатать | bosish, сhop etish
@@ -105,6 +105,10 @@ hash | хеш | ?
 cache | кеш | kash (ingliz tilidan olingan, shu deb 'kesh' emas) ?
 Tilde (~) | Тильда, волнистая черта? | To'lqin chiziq?
 Sharp (#) | Решетка | Panjara
+Absolute | Абсолютный | Mutloq
+Relative | Относительный | Nisbiy
+Spam/Junk | Спам | Nomaqbul
+Folder/Directory | Папка | Jild (`Google Android`, `Microsoft Outlook` dan olingan)
 Back quote (`) | |
 (!) | |
 (@) | |
