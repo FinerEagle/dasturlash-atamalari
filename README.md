@@ -111,7 +111,17 @@ Spam/Junk | Спам | Nomaqbul
 Folder/Directory | Папка | Jild (`Google Android`, `Microsoft Outlook` dan olingan)
 Content | Содержимое, контент | Tarkib
 Class method | метод класса | sinfning usuli
-Method | способ | usuli
+Method | способ | usul
+Button | Кнопка | Tugma
+Mouse | Мышка | Sichqoncha
+Arrow | Стрелка | ?
+Pseudo- | Псевдо- | Yolg'ondakam
+Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur
+Section | Секция |
+Text | Текст | Matn
+Wallpaper | Обои | Gulqog'oz
+Interval | Интервал | Oraliq
+
 Back quote (`) | |
 (!) | |
 (@) | |
@@ -137,6 +147,37 @@ Back quote (`) | |
 Tarmoqlanuvchi operatorlar
 Takrorlanuvchi operatorlar
 Toifalar va amallar
+
+### Dasturlashga bog'lik emas
+ingliz | rus | o'zbek
+--- | --- | ---
+Product | Товар | Mol
+Intellect | Ум, интеллект | Aql, tafakkur
+Quotation | Цитата | Iqtiboz
+Energy | Энергия | Quvvat
+Electrical current | Электрический ток | Elektr oqim
+Magnit | Магнит | Miqnotis, Ohanrabo
+Image | Образ | Qiyofa
+Picture | Картина | Rasm
+Cheese | Сыр | Pishloq
+Parking | Стоянка | Avtoturargoh
+Administrator | Администратор | Ma’mur
+Musician | Музыкант | Sozanda
+Music | Музыка | Navo
+Procedure | Процедура | Muolaja
+Shell | Оболочка | Qobiq
+Profession | Профессия | Kasb-kor
+Material | Материальный | Moddiy
+Matter | Вещество, материя | Modda
+Festival | Фестиваль | Sayil
+Tap | Кран | Jo'mrak
+Reconstuction | Реконструкция | Mukammal ta'mir
+Deposit | Взнос | Badal
+| Залог | Garov
+Relevance | Релевантность, отношение | Aloqadorlik
+Draft | Черновик | Qoralama
+Revolution | Революция | Inqilob
+Colony | Колония | Muslamlaka
 
 =============
 Ruxsatnoma CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
