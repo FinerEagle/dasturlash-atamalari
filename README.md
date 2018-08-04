@@ -121,32 +121,41 @@ Section | Секция |
 Text | Текст | Matn
 Wallpaper | Обои | Gulqog'oz
 Interval | Интервал | Oraliq
-
-Back quote (`) | |
-(!) | |
-(@) | |
-(%) | |
-(^) | |
-(*) | |
-(-) | |
-({) | |
-([) | |
-(|) | |
-(\) | |
-(/) | |
-(:) | |
-(;) | |
-(>) | |
-(<) | |
-(<=) | |
-(>=) | |
-(.) | |
-(,) | |
-(?) | |
+Deactivate | Деактивировать | Faolsizlantirish
+To download | Загрузить | Yuklab olish
+A download | Загрузка | Yuklanma
+Share | Поделиться | Ulashish
+Tester | Тестер | Sinovchi
+Test | Тест | Sinov
+Privacy | Конфиденциальность | Maxfiylik
+Notification | Уведомление | Bildirishnoma
+Subsription | Подписка | Obuna
+Terms of service | - | Xizmat shartlari
+Privacy policy | Политика конфиденциальности | Maxfiylik siyosati
+Back quote (`) | ? | ?
+(!) | ? | ?
+(@) | ? | ?
+(%) | ? | ?
+(^) | ? | ?
+(*) | ? | ?
+(-) | ? | ?
+({) | ? | ?
+([) | ? | ?
+(|) | ? | ?
+(\) | ? | ?
+(/) | ? | ?
+(:) | ? | ?
+(;) | ? | ?
+(>) | ? | ?
+(<) | ? | ?
+(<=) | ? | ?
+(>=) | ? | ?
+(.) | ? | ?
+(,) | ? | ?
+(?) | ? | ?
 
 Tarmoqlanuvchi operatorlar
 Takrorlanuvchi operatorlar
-Toifalar va amallar
 
 ### Dasturlashga bog'lik emas
 ingliz | rus | o'zbek
@@ -179,5 +188,5 @@ Draft | Черновик | Qoralama
 Revolution | Революция | Inqilob
 Colony | Колония | Muslamlaka
 
-=============
+---
 Ruxsatnoma CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
