@@ -90,7 +90,7 @@ archive | архив | xazina
 administrator | администратор | ma’mur
 data warehouse | ? | ma’lumotlar ombori
 procedure | процедура | muolaja
-tag | тег | yorliq so'z
+tag | тег | yorliq (lug'atdan)
 communication | коммуникация | aloqa almashuvi
 branching | развлетвление | tarmoqlanish
 action | действие | amal
@@ -132,6 +132,7 @@ Notification | Уведомление | Bildirishnoma
 Subsription | Подписка | Obuna
 Terms of service | - | Xizmat shartlari
 Privacy policy | Политика конфиденциальности | Maxfiylik siyosati
+Accessibility | Доступность | Hammaboplik
 Back quote (`) | ? | ?
 (!) | ? | ?
 (@) | ? | ?
@@ -178,11 +179,12 @@ Shell | Оболочка | Qobiq
 Profession | Профессия | Kasb-kor
 Material | Материальный | Moddiy
 Matter | Вещество, материя | Modda
+Materialism | Материализм | Moddaparastlik
 Festival | Фестиваль | Sayil
 Tap | Кран | Jo'mrak
 Reconstuction | Реконструкция | Mukammal ta'mir
 Deposit | Взнос | Badal
-| Залог | Garov
+? | Залог | Garov
 Relevance | Релевантность, отношение | Aloqadorlik
 Draft | Черновик | Qoralama
 Revolution | Революция | Inqilob
