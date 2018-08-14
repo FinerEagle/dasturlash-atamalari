@@ -30,11 +30,15 @@ set | множество | to'plam
 static | статичный | barqaror, turg'un
 dynamic | динамичный | harakatlanuvchi
 active | активный | faol
+activate | активировать | faollashtirish
+deactivate | дезактивировать | faolsizlashtirish
+turn on | включить | yoqish
+turn off | выключить | o'chirish
 class | класс | sinf
 type | тип | tur
 category | категория | toifa
-interface | интерфейс | interfeys
-symbol | символ | ramz
+interface | интерфейс | interfeys?
+symbol | символ | ramz ?
 dictionary | словарь | lug'at
 array | массив | mavze?
 list | список | ro'yxat
@@ -42,7 +46,7 @@ character | знак | belgi
 abstract | абстрактный | mavhum
 virtual | виртуальный | tasavvurdagi?
 string | строка | satr
-line | линия | qator
+line | строка | qator
 integer | целое число | butun son
 tuple | кортеж | shoda? dasta? (связка)
 float | число с плавающей точкой (дробное число) | kasr
@@ -59,11 +63,10 @@ keyboard | клавиатура | tugmalar taxtasi?
 web | веб | dunyoviy to'r?
 net | сеть | to'r
 quotes | кавычки | qo'shtirnoq
-calendar | календарь | taqvim (google taqvimdan olingan)
-link | ссылка | havola (bu tarjima ishlatiladi)
+calendar | календарь | taqvim (google taqvimidan olingan)
+link | ссылка | havola (shunday tarjima tarqalgan)
 hyperlink | гиперссылка | giper-havola
 property | свойство | xususiyat
-version | версия | ?
 mode | режим | tuzum? tartibot?
 model | модель | andoza
 format | формат | shakl ?
