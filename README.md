@@ -31,7 +31,8 @@ static | статичный | barqaror, turg'un
 dynamic | динамичный | harakatlanuvchi
 active | активный | faol
 class | класс | sinf
-type | тип | toifa
+type | тип | tur
+category | категория | toifa
 interface | интерфейс | interfeys
 symbol | символ | ramz
 dictionary | словарь | lug'at
