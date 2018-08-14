@@ -159,8 +159,6 @@ Back quote (`) | ? | ?
 (,) | ? | ?
 (?) | ? | ?
 
-Tarmoqlanuvchi operatorlar
-Takrorlanuvchi operatorlar
 
 ### Dasturlashga bog'lik emas
 ingliz | rus | o'zbek
@@ -192,7 +190,7 @@ Deposit | Взнос | Badal
 Relevance | Релевантность, отношение | Aloqadorlik
 Draft | Черновик | Qoralama
 Revolution | Революция | Inqilob
-Colony | Колония | Muslamlaka
+Colony | Колония | Mustamlaka
 
 ---
 Ruxsatnoma CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
