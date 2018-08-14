@@ -191,6 +191,9 @@ Relevance | Релевантность, отношение | Aloqadorlik
 Draft | Черновик | Qoralama
 Revolution | Революция | Inqilob
 Colony | Колония | Mustamlaka
+Rome | Рим | Rum
+Greece | Греция | Yunoniston
+Alexander the Great | Александр Македонский | Iskandar Zulqarnayn
 
 ---
 Ruxsatnoma CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
