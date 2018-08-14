@@ -1,6 +1,6 @@
 ## O‘ylab topilgan so‘zlar bor.
 
-Albatta bu lug‘atda nuqsonlar bor, balki tarjima qinmaydigan so‘zlar ham bor.
+Albatta bu lug‘atda nuqsonlar bor, balki tarjima qilinmaydigan so‘zlar ham bor.
 Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini topish.
 
 ingliz | rus | o'zbek
