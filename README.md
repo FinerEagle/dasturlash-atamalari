@@ -137,6 +137,7 @@ Subsription | Подписка | Obuna
 Terms of service | - | Xizmat shartlari
 Privacy policy | Политика конфиденциальности | Maxfiylik siyosati
 Accessibility | Доступность | Hammaboplik
+Dropdown | Выпадающий список | Tushib keluvchi ro'yxat
 Back quote (`) | ? | ?
 (!) | ? | ?
 (@) | ? | ?
