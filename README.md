@@ -9,26 +9,26 @@ settings | настройки | sozlamalar
 program | программа | dastur
 application | приложение | ilova
 project | проект | loyiha
-compiler | компилятор | tuzgich
-assembly | ассемблер | yig'gich
+compiler | компилятор | tuzgich, tuzuvchi
+assembly | ассемблер | yig'gich, yig'uvchi
 interpreter | интерпритатор | izohlagich
-email | электронная почта | elektron pochta
+email | электронная почта | elektron pochta qutisi
 command line | коммандная строка | buyruqlar qatori
 unix shell | unix shell | unix shell
 shell | оболочка | qobiq
 node | узел | tugun
-function | функция | ?
+function | функция | funksiya
 element | элемент | unsur
 module | модуль | bo'lim
-variable | переменная | o'zgaruvchan
-constant | константа | o'zgarmas miqdor
-loop | цикл | davr
-maximum | максимум | maksimum, avj?
-minimum | минимум | minimum
+variable | переменная | o'zgaruvchi
+constant | константа | o'zgarmas, konstanta
+loop | цикл | davr, takrorlanish
+maximum | максимум | maksimum, eng katta qiymat
+minimum | минимум | minimum, eng kichik qiymat
 ok | ок | yaxshi
 set | множество | to'plam
 static | статичный | barqaror, turg'un
-dynamic | динамичный | harakatlanuvchi
+dynamic | динамичный | o'zgaruvchi, harakatlanuvchi
 active | активный | faol
 activate | активировать | faollashtirish
 deactivate | дезактивировать | faolsizlashtirish
@@ -38,28 +38,28 @@ class | класс | sinf
 type | тип | tur
 category | категория | toifa
 interface | интерфейс | interfeys?
-symbol | символ | ramz ?
+symbol | символ | ramz, belgi
 dictionary | словарь | lug'at
-array | массив | mavze?
+array | массив | mavze, massiv
 list | список | ro'yxat
 character | знак | belgi
 abstract | абстрактный | mavhum
-virtual | виртуальный | tasavvurdagi?
+virtual | виртуальный | tasavvurdagi, xayoliy
 string | строка | satr
 line | строка | qator
 integer | целое число | butun son
 tuple | кортеж | shoda? dasta? (связка)
-float | число с плавающей точкой (дробное число) | kasr
-double | число с плавающей точкой двойной точности | ikkilangan aniqlikli kasr
+float | число с плавающей точкой (дробное число) | kasr son
+double | число с плавающей точкой двойной точности | aniqlik darajasi ikkiga teng bulgan kasr son
 text editor | текстовый редактор | matn muharriri
 extension | расширение | kengaytma
 browser | браузер | brauzer?
 computer | компьютер | kompyuter
 electronic board | электронная плата | elektron taxtasi?
-random access memory | оперативная память | muolaja xotirasi, tezkor hotira?
-hard disk drive | жесткий диск | ?
+random access memory | оперативная память | tezkor xotira?
+hard disk drive | жесткий диск | qattik disk, doimiy xotira?
 motherboard | материнская плата | ona taxtasi?
-keyboard | клавиатура | tugmalar taxtasi?
+keyboard | клавиатура | tugmalar taxtasi? matn kiritish qurilmasi
 web | веб | dunyoviy to'r?
 net | сеть | to'r
 quotes | кавычки | qo'shtirnoq
@@ -76,23 +76,23 @@ library | библиотека | kutubxona
 expression | выражение | ifoda
 positive | положительный | musbat
 negative | отрицательный | manfiy
-modulo | остаток от деления | qoldiqlik
+modulo | остаток от деления | qoldiq
 compare | сравнивание | taqqoslash
 logic | логика | mantiq
-object | объект | ?
+object | объект | obyekt?
 run time | время выполнения | bajarilish vaqti
 virtual machine | виртуальная машина | tasavvurdagi qurilma
 software | программное обеспечение | dasturiy ta'minot
 hardware | аппаратное обчеспечение | qurilmaviy ta'minot? (texnik ta'minot)
-script | скрипт | ?
+script | скрипт | dastur? bajariladigan buyruqlar ketma ketligi
 account | учетная запись | qayd yozuvi, hisob qaydnomasi (`Microsoft launcher for Android` dan olingan)
 dimension | измерение | o'lcham
 assign | назначить | biriktirish
-print | печатать | bosish, сhop etish
+print | печатать | bosish, сhop etish, matnni kiritish
 category | категория | toifa
 archive | архив | xazina
 administrator | администратор | ma’mur
-data warehouse | ? | ma’lumotlar ombori
+data warehouse | База данных | ma’lumotlar ombori
 procedure | процедура | muolaja
 tag | тег | yorliq (lug'atdan)
 communication | коммуникация | aloqa almashuvi
@@ -101,9 +101,9 @@ action | действие | amal
 structure | структура | tuzilma
 version | версия | talqin (https://git-scm.com/book/uz/v2/)
 scroll | прокручивать |
-to pause | приостановить |
-pause | пауза |
-contatenation | конкатенация | ?
+to pause | приостановить | to'xtatish
+pause | пауза | to'xtash
+contatenation | конкатенация | birlashtirish, qo'shish
 spread | ? | ?
 hash | хеш | ?
 cache | кеш | kash (ingliz tilidan olingan, shu deb 'kesh' emas) ?
@@ -118,14 +118,13 @@ Class method | метод класса | sinfning usuli
 Method | способ | usul
 Button | Кнопка | Tugma
 Mouse | Мышка | Sichqoncha
-Arrow | Стрелка | ?
-Pseudo- | Псевдо- | Yolg'ondakam
-Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur
-Section | Секция |
+Arrow | Стрелка | Yo'nalishi belgilangan kesma
+Pseudo- | Псевдо- | Xayoliy, Yolg'ondakam
+Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur, Xayoliy buyum
+Section | Секция | Bo'lim
 Text | Текст | Matn
 Wallpaper | Обои | Gulqog'oz
 Interval | Интервал | Oraliq
-Deactivate | Деактивировать | Faolsizlantirish
 To download | Загрузить | Yuklab olish
 A download | Загрузка | Yuklanma
 Share | Поделиться | Ulashish
@@ -134,31 +133,31 @@ Test | Тест | Sinov
 Privacy | Конфиденциальность | Maxfiylik
 Notification | Уведомление | Bildirishnoma
 Subsription | Подписка | Obuna
-Terms of service | - | Xizmat shartlari
+Terms of service | Правила предоставления услуг | Xizmat ko'rsatish shartlari
 Privacy policy | Политика конфиденциальности | Maxfiylik siyosati
-Accessibility | Доступность | Hammaboplik
+Accessibility | Доступность | Ochiqlik, Hammaboplik
 Dropdown | Выпадающий список | Tushib keluvchi ro'yxat
 Back quote (`) | ? | ?
-(!) | ? | ?
-(@) | ? | ?
-(%) | ? | ?
+(!) | ? | undov belgisi
+(@) | ? | kuchukcha belgisi
+(%) | ? | foiz belgisi
 (^) | ? | ?
-(*) | ? | ?
-(-) | ? | ?
-({) | ? | ?
-([) | ? | ?
+(*) | ? | ko'paytirish belgisi
+(-) | ? | ayirish belgisi
+({) | ? | katta qavs belgisi
+([) | ? | kvadrat qavs belgisi
 (|) | ? | ?
-(\) | ? | ?
-(/) | ? | ?
-(:) | ? | ?
-(;) | ? | ?
-(>) | ? | ?
-(<) | ? | ?
-(<=) | ? | ?
-(>=) | ? | ?
-(.) | ? | ?
-(,) | ? | ?
-(?) | ? | ?
+(\) | ? | teskari slesh?
+(/) | ? | kasr belgisi, slesh?
+(:) | ? | ikki nuqta
+(;) | ? | nuqta vergul
+(>) | ? | katta belgisi
+(<) | ? | kichik belgisi
+(<=) | ? | kichik yoki teng
+(>=) | ? | katta yoki teng
+(.) | ? | nuqta
+(,) | ? | vergul
+(?) | ? | so'roq belgisi
 
 
 ### Dasturlashga bog'lik emas
