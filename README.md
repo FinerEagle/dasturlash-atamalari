@@ -15,7 +15,7 @@ interpreter | интерпритатор | izohlagich
 email | электронная почта | elektron pochta qutisi
 command line | коммандная строка | buyruqlar qatori
 unix shell | unix shell | unix shell
-shell | оболочка | qobig'
+shell | оболочка | qobiq
 node | узел | tugun
 function | функция | funksiya
 element | элемент | unsur
@@ -38,7 +38,7 @@ class | класс | sinf
 type | тип | tur
 category | категория | toifa
 interface | интерфейс | interfeys?
-symbol | символ | ramz, harf
+symbol | символ | ramz, belgi
 dictionary | словарь | lug'at
 array | массив | mavze, massiv
 list | список | ro'yxat
@@ -118,7 +118,7 @@ Class method | метод класса | sinfning usuli
 Method | способ | usul
 Button | Кнопка | Tugma
 Mouse | Мышка | Sichqoncha
-Arrow | Стрелка | Ko'rsatkich
+Arrow | Стрелка | Yo'nalishi belgilangan kesma
 Pseudo- | Псевдо- | Xayoliy, Yolg'ondakam
 Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur, Xayoliy buyum
 Section | Секция | Bo'lim
@@ -140,7 +140,7 @@ Dropdown | Выпадающий список | Tushib keluvchi ro'yxat
 Back quote (`) | ? | ?
 (!) | ? | undov belgisi
 (@) | ? | kuchukcha belgisi
-(%) | ? | prosent belgisi
+(%) | ? | foiz belgisi
 (^) | ? | ?
 (*) | ? | ko'paytirish belgisi
 (-) | ? | ayirish belgisi
@@ -168,7 +168,7 @@ Intellect | Ум, интеллект | Aql, tafakkur
 Quotation | Цитата | Iqtiboz
 Energy | Энергия | Quvvat
 Electrical current | Электрический ток | Elektr oqim
-Magnit | Магнит | Miqnotis, Ohangrabo
+Magnit | Магнит | Miqnotis, Ohanrabo
 Image | Образ | Qiyofa
 Picture | Картина | Rasm
 Cheese | Сыр | Pishloq
