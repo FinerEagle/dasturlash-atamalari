@@ -40,7 +40,7 @@ category | категория | toifa
 interface | интерфейс | interfeys?
 symbol | символ | ramz, belgi
 dictionary | словарь | lug'at
-array | массив | mavze, massiv
+array | массив | mavze
 list | список | ro'yxat
 character | знак | belgi
 abstract | абстрактный | mavhum
@@ -121,7 +121,7 @@ Mouse | Мышка | Sichqoncha
 Arrow | Стрелка | Yo'nalishi belgilangan kesma
 Pseudo- | Псевдо- | Xayoliy, Yolg'ondakam
 Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur, Xayoliy buyum
-Section | Секция | Bo'lim
+Section | Секция | ?
 Text | Текст | Matn
 Wallpaper | Обои | Gulqog'oz
 Interval | Интервал | Oraliq
@@ -137,6 +137,13 @@ Terms of service | Правила предоставления услуг | Xizm
 Privacy policy | Политика конфиденциальности | Maxfiylik siyosati
 Accessibility | Доступность | Ochiqlik, Hammaboplik
 Dropdown | Выпадающий список | Tushib keluvchi ro'yxat
+Virtual reality | Виртуальная реальность | Hayoliy voqelik
+Augmented reality | Дополненная реальность | To'ldirilgan voqelik
+Feedback form | Форма обратной связи | Bog'lanish so'ro'vnomasi
+Form | Форма | So'ro'vnoma
+Attribute | Атрибут | ?
+Anchor | Якорь | Langar
+Paragraph | Параграф | Xat boshi
 Back quote (`) | ? | ?
 (!) | ? | undov belgisi
 (@) | ? | kuchukcha belgisi
@@ -194,6 +201,7 @@ Colony | Колония | Mustamlaka
 Rome | Рим | Rum
 Greece | Греция | Yunoniston
 Alexander the Great | Александр Македонский | Iskandar Zulqarnayn
-
+Investition | Инвестиция | Sarmoya
+Investor | Инвестор | Sarmoyachi
 ---
 Ruxsatnoma CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
