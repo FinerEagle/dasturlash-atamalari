@@ -144,6 +144,12 @@ Form | Форма | So'ro'vnoma
 Attribute | Атрибут | ?
 Anchor | Якорь | Langar
 Paragraph | Параграф | Xat boshi
+Input | Ввод | Kiritish
+Output | Вывод | Chiqarish
+Field | Поле | Maydoncha
+Placeholder | Заполнитель | To'ldirgich
+Default | По умолчанию | Odatiy qiymat
+Reset | Восстановить | Qayta tiklash
 Back quote (`) | ? | ?
 (!) | ? | undov belgisi
 (@) | ? | kuchukcha belgisi
