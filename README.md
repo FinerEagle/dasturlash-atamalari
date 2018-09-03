@@ -14,18 +14,18 @@ assembly | ассемблер | yig'gich, yig'uvchi
 interpreter | интерпритатор | izohlagich
 email | электронная почта | elektron pochta qutisi
 command line | коммандная строка | buyruqlar qatori
-unix shell | unix shell | unix shell
+unix shell | unix shell | yuniks shell
 shell | оболочка | qobiq
 node | узел | tugun
-function | функция | funksiya
+function | функция | funksiya?
 element | элемент | unsur
 module | модуль | bo'lim
 variable | переменная | o'zgaruvchi
-constant | константа | o'zgarmas, konstanta
+constant | константа | o'zgarmas
 loop | цикл | davr, takrorlanish
-maximum | максимум | maksimum, eng katta qiymat
-minimum | минимум | minimum, eng kichik qiymat
-ok | ок | yaxshi
+maximum | максимум | eng katta qiymat
+minimum | минимум | eng kichik qiymat
+ok | ок | xo'p
 set | множество | to'plam
 static | статичный | barqaror, turg'un
 dynamic | динамичный | o'zgaruvchi, harakatlanuvchi
@@ -69,7 +69,7 @@ hyperlink | гиперссылка | giper-havola
 property | свойство | xususiyat
 mode | режим | tuzum? tartibot?
 model | модель | andoza
-format | формат | shakl ?
+format | формат | shakl?
 start | запуск | ishga tushirmoq
 framework | фреймворк | sinch
 library | библиотека | kutubxona
@@ -79,7 +79,7 @@ negative | отрицательный | manfiy
 modulo | остаток от деления | qoldiq
 compare | сравнивание | taqqoslash
 logic | логика | mantiq
-object | объект | obyekt?
+object | объект | ?
 run time | время выполнения | bajarilish vaqti
 virtual machine | виртуальная машина | tasavvurdagi qurilma
 software | программное обеспечение | dasturiy ta'minot
@@ -87,12 +87,12 @@ hardware | аппаратное обчеспечение | qurilmaviy ta'minot? 
 script | скрипт | dastur? bajariladigan buyruqlar ketma ketligi
 account | учетная запись | qayd yozuvi, hisob qaydnomasi (`Microsoft launcher for Android` dan olingan)
 dimension | измерение | o'lcham
-assign | назначить | biriktirish
-print | печатать | bosish, сhop etish, matnni kiritish
+assign | назначить, присвоить | biriktirish?
+print | печатать | bosish, сhop etish
 category | категория | toifa
 archive | архив | xazina
 administrator | администратор | ma’mur
-data warehouse | База данных | ma’lumotlar ombori
+database | база данных | ma’lumotlar ombori
 procedure | процедура | muolaja
 tag | тег | yorliq (lug'atdan)
 communication | коммуникация | aloqa almashuvi
@@ -150,6 +150,11 @@ Field | Поле | Maydoncha
 Placeholder | Заполнитель | To'ldirgich
 Default | По умолчанию | Odatiy qiymat
 Reset | Восстановить | Qayta tiklash
+Copy | Копировать | Nusxa ko'chirish
+Paste | Вставить | Qo'shish
+Copyright | Авторские права | Mualliflik huquqlari
+License | Лицензия | Ruxsatnoma
+Certificate | Сертификат | Shahodatnoma, guvohnoma
 Back quote (`) | ? | ?
 (!) | ? | undov belgisi
 (@) | ? | kuchukcha belgisi
@@ -209,5 +214,7 @@ Greece | Греция | Yunoniston
 Alexander the Great | Александр Македонский | Iskandar Zulqarnayn
 Investition | Инвестиция | Sarmoya
 Investor | Инвестор | Sarmoyachi
+Teory | Теория | Nazariya
+Practice | Практика | Amaliyot
 ---
 Ruxsatnoma CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
