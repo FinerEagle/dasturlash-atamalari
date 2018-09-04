@@ -155,16 +155,25 @@ Paste | Вставить | Qo'shish
 Copyright | Авторские права | Mualliflik huquqlari
 License | Лицензия | Ruxsatnoma
 Certificate | Сертификат | Shahodatnoma, guvohnoma
-Back quote (`) | ? | ?
+Submit | Topshirish | Отправить
+Required | Обязательный | Majburiy
+Optional | Необязательный | Ixtiyoriy
+checkbox | чекбокс | ?
+radio button | радио кнопка | radio tugma?
+select | выбрать | tanlash
+textarea | ? | ?
+media | медиа | ?
+user | пользователь | foydalanuvchi
+Back quote (\`) | ? | ?
 (!) | ? | undov belgisi
 (@) | ? | kuchukcha belgisi
 (%) | ? | foiz belgisi
 (^) | ? | ?
-(*) | ? | ko'paytirish belgisi
+(\*) | ? | ko'paytirish belgisi
 (-) | ? | ayirish belgisi
 ({) | ? | katta qavs belgisi
-([) | ? | kvadrat qavs belgisi
-(|) | ? | ?
+(\[) | ? | to'rtburchak qavs belgisi
+(\|) | ? | ?
 (\) | ? | teskari slesh?
 (/) | ? | kasr belgisi, slesh?
 (:) | ? | ikki nuqta
