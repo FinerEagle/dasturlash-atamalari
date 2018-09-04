@@ -164,6 +164,7 @@ select | выбрать | tanlash
 textarea | ? | ?
 media | медиа | ?
 user | пользователь | foydalanuvchi
+specification | спецификация | ?
 Back quote (\`) | ? | ?
 (!) | ? | undov belgisi
 (@) | ? | kuchukcha belgisi
