@@ -158,7 +158,7 @@ Certificate | Сертификат | Shahodatnoma, guvohnoma
 Submit | Topshirish | Отправить
 Required | Обязательный | Majburiy
 Optional | Необязательный | Ixtiyoriy
-checkbox | чекбокс | ?
+checkbox | флажок | tasdiqlash qutisi
 radio button | радио кнопка | radio tugma?
 select | выбрать | tanlash
 textarea | ? | ?
@@ -225,5 +225,6 @@ Investition | Инвестиция | Sarmoya
 Investor | Инвестор | Sarmoyachi
 Teory | Теория | Nazariya
 Practice | Практика | Amaliyot
+Box | Коробка | Quti
 ---
 Ruxsatnoma CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
