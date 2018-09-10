@@ -188,44 +188,5 @@ Back quote (\`) | ? | ?
 (?) | ? | so'roq belgisi
 
 
-### Dasturlashga bog'lik emas
-ingliz | rus | o'zbek
---- | --- | ---
-Product | Товар | Mol
-Intellect | Ум, интеллект | Aql, tafakkur
-Quotation | Цитата | Iqtiboz
-Energy | Энергия | Quvvat
-Electrical current | Электрический ток | Elektr oqim
-Magnit | Магнит | Miqnotis, Ohanrabo
-Image | Образ | Qiyofa
-Picture | Картина | Rasm
-Cheese | Сыр | Pishloq
-Parking | Стоянка | Avtoturargoh
-Administrator | Администратор | Ma’mur
-Musician | Музыкант | Sozanda
-Music | Музыка | Navo
-Procedure | Процедура | Muolaja
-Shell | Оболочка | Qobiq
-Profession | Профессия | Kasb-kor
-Material | Материальный | Moddiy
-Matter | Вещество, материя | Modda
-Materialism | Материализм | Moddaparastlik
-Festival | Фестиваль | Sayil
-Tap | Кран | Jo'mrak
-Reconstuction | Реконструкция | Mukammal ta'mir
-Deposit | Взнос | Badal
-? | Залог | Garov
-Relevance | Релевантность, отношение | Aloqadorlik
-Draft | Черновик | Qoralama
-Revolution | Революция | Inqilob
-Colony | Колония | Mustamlaka
-Rome | Рим | Rum
-Greece | Греция | Yunoniston
-Alexander the Great | Александр Македонский | Iskandar Zulqarnayn
-Investition | Инвестиция | Sarmoya
-Investor | Инвестор | Sarmoyachi
-Teory | Теория | Nazariya
-Practice | Практика | Amaliyot
-Box | Коробка | Quti
 ---
 Ruxsatnoma CC0 (https://creativecommons.org/share-your-work/public-domain/cc0/)
