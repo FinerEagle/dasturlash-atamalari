@@ -63,8 +63,8 @@ keyboard | клавиатура | tugmalar taxtasi? matn kiritish qurilmasi
 web | веб | dunyoviy to'r?
 net | сеть | to'r
 quotes | кавычки | qo'shtirnoq
-calendar | календарь | taqvim (google taqvimidan olingan)
-link | ссылка | havola (shunday tarjima tarqalgan)
+calendar | календарь | taqvim (Google taqvimidan olingan)
+link | ссылка | havola (shunday tarjima tarqalgan, masalan Microsoft Outlookda foydalanilgan)
 hyperlink | гиперссылка | giper-havola
 property | свойство | xususiyat
 mode | режим | tuzum? tartibot?
