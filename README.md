@@ -164,6 +164,14 @@ media | медиа | ?
 user | пользователь | foydalanuvchi
 specification | спецификация | ?
 analysis | анализ | tahlil
+device | устройство | qurilma
+size | размер | hajm
+install | установка | o'rnatish
+support | поддержка | qo‘llab-quvvatlash
+publisher | издатель | noshir
+PC | ПК | ShK
+description | описание | tavsif
+hub | ? | uya (Microsoft tarjimasi, masalan - https://www.microsoft.com/uz-latn-uz/p/microsoft-to-do/9nblggh5r558?activetab=pivot:overviewtab)
 Tilde (~) | Тильда, волнистая черта? | To'lqin chiziq?
 Sharp (#) | Решетка | Panjara
 Back quote (\`) | ? | ?
