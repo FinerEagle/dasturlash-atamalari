@@ -107,8 +107,6 @@ contatenation | конкатенация | birlashtirish, qo'shish
 spread | ? | ?
 hash | хеш | ?
 cache | кеш | kash (ingliz tilidan olingan, shu deb 'kesh' emas) ?
-Tilde (~) | Тильда, волнистая черта? | To'lqin chiziq?
-Sharp (#) | Решетка | Panjara
 Absolute | Абсолютный | Mutloq
 Relative | Относительный | Nisbiy
 Spam/Junk | Спам | Nomaqbul
@@ -165,6 +163,9 @@ textarea | ? | ?
 media | медиа | ?
 user | пользователь | foydalanuvchi
 specification | спецификация | ?
+analysis | анализ | tahlil
+Tilde (~) | Тильда, волнистая черта? | To'lqin chiziq?
+Sharp (#) | Решетка | Panjara
 Back quote (\`) | ? | ?
 (!) | ? | undov belgisi
 (@) | ? | kuchukcha belgisi
