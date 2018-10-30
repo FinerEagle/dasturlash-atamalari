@@ -136,7 +136,7 @@ Privacy policy | Политика конфиденциальности | Maxfiyl
 Accessibility | Доступность | Ochiqlik, Hammaboplik
 Dropdown | Выпадающий список | Tushib keluvchi ro'yxat
 Virtual reality | Виртуальная реальность | Hayoliy voqelik
-Augmented reality | Дополненная реальность | To'ldirilgan voqelik
+Augmented reality | Дополненная реальность | To'ldirilgan voqelik, Aralashgan voqelik
 Feedback form | Форма обратной связи | Bog'lanish so'ro'vnomasi
 Form | Форма | So'ro'vnoma
 Attribute | Атрибут | ?
