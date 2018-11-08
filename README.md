@@ -172,6 +172,7 @@ publisher | издатель | noshir
 PC | ПК | ShK
 description | описание | tavsif
 hub | ? | uya (Microsoft tarjimasi, masalan - https://www.microsoft.com/uz-latn-uz/p/microsoft-to-do/9nblggh5r558?activetab=pivot:overviewtab)
+namespace | пространство имен | nomlar fazosi
 Tilde (~) | Тильда, волнистая черта? | To'lqin chiziq?
 Sharp (#) | Решетка | Panjara
 Back quote (\`) | ? | ?
