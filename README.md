@@ -5,6 +5,7 @@ Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini t
 
 ingliz | rus | o'zbek
 --- | --- | ---
+operation system | operatsionnaya sistema | boshqaruv tizimi
 settings | настройки | sozlamalar
 program | программа | dastur
 application | приложение | ilova
