@@ -3,9 +3,13 @@
 Albatta bu lug‘atda nuqsonlar bor, balki tarjima qilinmaydigan so‘zlar ham bor.
 Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini topish.
 
+Tanqidni, takliflarni telegramda @dasturlash_com ga yozinglar.
+Sizga shu lug'atda yo'q bo'lgan so'zlarni tarjimasi kerakmi? Telegramda @dasturlash_com ga yozing, uyalmang.
+
 ingliz | rus | o'zbek
 --- | --- | ---
 system | sistema | tizim
+local | localniy, mestniy | mahalliy
 operation system | operatsionnaya sistema | boshqaruv tizimi
 server | server | xizmatchi
 deploy | razvertivat' | tayyorlab joylamoq
@@ -179,27 +183,27 @@ hub | ? | uya (Microsoft tarjimasi, masalan - https://www.microsoft.com/uz-latn-
 namespace | пространство имен | nomlar fazosi
 Tilde (~) | Тильда, волнистая черта? | To'lqin chiziq?
 Sharp (#) | Решетка | Panjara
-Back quote (\`) | ? | ?
-(!) | ? | undov belgisi
-(@) | ? | kuchukcha belgisi
-(%) | ? | foiz belgisi
+Backtick (\`) | ? | ?
+Exclamation mark, Bang (!) | ? | undov belgisi
+At (@) | ? | kuchukcha belgisi
+Percent (%) | ? | foiz belgisi
 (^) | ? | ?
-(\*) | ? | ko'paytirish belgisi
-(-) | ? | ayirish belgisi
+Star (\*) | ? | ko'paytirish belgisi
+Dash (-) | ? | ayirish belgisi
 ({) | ? | katta qavs belgisi
-(\[) | ? | to'rtburchak qavs belgisi
-(\|) | ? | ?
-(\) | ? | teskari slesh?
-(/) | ? | kasr belgisi, slesh?
-(:) | ? | ikki nuqta
-(;) | ? | nuqta vergul
-(>) | ? | katta belgisi
-(<) | ? | kichik belgisi
-(<=) | ? | kichik yoki teng
-(>=) | ? | katta yoki teng
-(.) | ? | nuqta
-(,) | ? | vergul
-(?) | ? | so'roq belgisi
+Square bracket (\[) | ? | to'rtburchak qavs belgisi
+Pipe (\|) | ? | ?
+Backward slash (\) | ? | teskari slesh?
+Forward slash (/) | ? | kasr belgisi, slesh?
+Colon (:) | ? | ikki nuqta
+Semicolon (;) | ? | nuqta vergul
+Greater (>) | ? | katta belgisi
+Less (<) | ? | kichik belgisi
+Greater or equal (<=) | ? | kichik yoki teng
+Less or equal (>=) | ? | katta yoki teng
+Dot (.) | ? | nuqta
+Comma (,) | ? | vergul
+Question mark (?) | ? | so'roq belgisi
 
 
 ---
