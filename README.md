@@ -133,6 +133,7 @@ Text | Текст | Matn
 Wallpaper | Обои | Gulqog'oz
 Interval | Интервал | Oraliq
 To download | Загрузить | Yuklab olish
+To upload | Skachat, Загрузить | Yuklab qo'yish
 A download | Загрузка | Yuklanma
 Share | Поделиться | Ulashish
 Tester | Тестер | Sinovchi
