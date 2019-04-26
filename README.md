@@ -37,7 +37,7 @@ minimum | минимум | eng kichik qiymat
 ok | ок | xo'p
 set | множество | to'plam
 static | статичный | barqaror, turg'un
-dynamic | динамичный | o'zgaruvchi, harakatlanuvchi
+dynamic | динамичный | harakatlanuvchi
 active | активный | faol
 activate | активировать | faollashtirish
 deactivate | дезактивировать | faolsizlashtirish
