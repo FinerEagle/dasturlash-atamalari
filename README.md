@@ -4,6 +4,7 @@ Albatta bu lug‘atda nuqsonlar bor, balki tarjima qilinmaydigan so‘zlar ham b
 Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini topish.
 
 Tanqidni, takliflarni telegramda @dasturlash_com ga yozinglar.
+
 Sizga shu lug'atda yo'q bo'lgan so'zlarni tarjimasi kerakmi? Telegramda @dasturlash_com ga yozing, uyalmang.
 
 ingliz | rus | o'zbek
