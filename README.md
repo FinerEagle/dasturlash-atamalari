@@ -9,11 +9,11 @@ Sizga shu lug'atda yo'q bo'lgan so'zlarni tarjimasi kerakmi? Telegramda @dasturl
 
 ingliz | rus | o'zbek
 --- | --- | ---
-system | sistema | tizim
-local | localniy, mestniy | mahalliy
-operation system | operatsionnaya sistema | boshqaruv tizimi
+system | система | tizim
+local | локальный, местный | mahalliy
+operation system | операционная система | boshqaruv tizimi
 server | server | xizmatchi
-deploy | razvertivat' | tayyorlab joylamoq
+deploy | развертывать | tayyorlab joylamoq
 settings | настройки | sozlamalar
 program | программа | dastur
 application | приложение | ilova
@@ -34,6 +34,7 @@ constant | константа | o'zgarmas
 loop | цикл | davr, takrorlanish
 maximum | максимум | eng katta qiymat
 minimum | минимум | eng kichik qiymat
+engineer | инженер | muhandis
 ok | ок | xo'p
 set | множество | to'plam
 static | статичный | barqaror, turg'un
