@@ -1,5 +1,7 @@
 ## O‘ylab topilgan so‘zlar bor.
 
+Kerakli so'zni topish uchun CTRL + F tugmalarni bo'sib qidiring.
+
 Albatta bu lug‘atda nuqsonlar bor, balki tarjima qilinmaydigan so‘zlar ham bor.
 Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini topish.
 
@@ -16,6 +18,9 @@ server | server | xizmatchi
 deploy | развертывать | tayyorlab joylamoq
 settings | настройки | sozlamalar
 program | программа | dastur
+to display | отображать | akslantirish (Mukammal dasturlash kitobidan)
+heading | заголовок | sarlavha
+metadata | метаданные | tavsif xabar
 application | приложение | ilova
 project | проект | loyiha
 compiler | компилятор | tuzgich, tuzuvchi
@@ -74,7 +79,7 @@ web | веб | dunyoviy to'r?
 net | сеть | to'r
 quotes | кавычки | qo'shtirnoq
 calendar | календарь | taqvim (Google taqvimidan olingan)
-link | ссылка | havola (shunday tarjima tarqalgan, masalan Microsoft Outlookda foydalanilgan)
+link | ссылка | havola (shunday tarjima tarqalgan, masalan Microsoft Outlookda foydalanilgan), ishorat (Mukammal dasturlash kitobidan)
 hyperlink | гиперссылка | giper-havola
 property | свойство | xususiyat
 mode | режим | tuzum? tartibot?
@@ -83,6 +88,12 @@ format | формат | shakl?
 start | запуск | ishga tushirmoq
 framework | фреймворк | sinch
 library | библиотека | kutubxona
+style | стиль | uslub, bezak
+event | событие | hodisa
+table | таблица | jadval
+audio | звук, аудио | tovush
+circle | круг | doira
+id, identifier | идентификатор | tanishtirovchi?
 expression | выражение | ifoda
 positive | положительный | musbat
 negative | отрицательный | manfiy
@@ -112,6 +123,9 @@ structure | структура | tuzilma
 version | версия | talqin (https://git-scm.com/book/uz/v2/)
 scroll | прокручивать |
 to pause | приостановить | to'xtatish
+value | значение | qiymat
+real | настоящий, реальный | haqiqiy
+boolean type | булевый тип, логический тип | mantiqiy tur
 pause | пауза | to'xtash
 contatenation | конкатенация | birlashtirish, qo'shish
 spread | ? | ?
@@ -131,6 +145,7 @@ Pseudo- | Псевдо- | Xayoliy, Yolg'ondakam
 Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur, Xayoliy buyum
 Section | Секция | ?
 Text | Текст | Matn
+align | выравнивать | saflash, tekislash (Mukammal dasturlash kitobidan)
 Wallpaper | Обои | Gulqog'oz
 Interval | Интервал | Oraliq
 To download | Загрузить | Yuklab olish
@@ -150,7 +165,8 @@ Virtual reality | Виртуальная реальность | Hayoliy voqelik
 Augmented reality | Дополненная реальность | To'ldirilgan voqelik, Aralashgan voqelik
 Feedback form | Форма обратной связи | Bog'lanish so'ro'vnomasi
 Form | Форма | So'ro'vnoma
-Attribute | Атрибут | ?
+Attribute | Атрибут | Alomat (Mukammal dasturlash kitobidan)
+Document | Документ | Hujjat
 Anchor | Якорь | Langar
 Paragraph | Параграф | Xat boshi
 Input | Ввод | Kiritish
@@ -176,7 +192,8 @@ user | пользователь | foydalanuvchi
 specification | спецификация | ?
 analysis | анализ | tahlil
 device | устройство | qurilma
-size | размер | hajm
+size | размер | o'lcham
+volume | hajm
 install | установка | o'rnatish
 support | поддержка | qo‘llab-quvvatlash
 publisher | издатель | noshir
@@ -196,17 +213,17 @@ Dash (-) | ? | ayirish belgisi
 ({) | ? | katta qavs belgisi
 Square bracket (\[) | ? | to'rtburchak qavs belgisi
 Pipe (\|) | ? | ?
-Backward slash (\) | ? | teskari slesh?
+Backward slash (\) | ? | teskari kasr belgisi
 Forward slash (/) | ? | kasr belgisi, slesh?
-Colon (:) | ? | ikki nuqta
-Semicolon (;) | ? | nuqta vergul
-Greater (>) | ? | katta belgisi
-Less (<) | ? | kichik belgisi
-Greater or equal (<=) | ? | kichik yoki teng
-Less or equal (>=) | ? | katta yoki teng
-Dot (.) | ? | nuqta
-Comma (,) | ? | vergul
-Question mark (?) | ? | so'roq belgisi
+Colon (:) | двоеточие | ikki nuqta
+Semicolon (;) | точка с запятой | nuqta vergul
+Greater (>) | больше | katta belgisi
+Less (<) | меньше | kichik belgisi
+Greater or equal (<=) | меньше или равно | kichik yoki teng
+Less or equal (>=) | больше или равно | katta yoki teng
+Dot (.) | точка | nuqta
+Comma (,) | запятая | vergul
+Question mark (?) | вопросительный знак | so'roq belgisi
 
 
 ---
