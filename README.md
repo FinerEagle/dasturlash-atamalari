@@ -11,6 +11,15 @@ Sizga shu lug'atda yo'q bo'lgan so'zlarni tarjimasi kerakmi? Telegramda @dasturl
 
 ingliz | rus | o'zbek
 --- | --- | ---
+standard | стандарт | ?
+Precedence | | ustivorlik?
+Priority | | ustivorlik?
+order | | tartib
+instruction | инструкция | ko'rsatma
+operation | операция | amaliyot
+operator | оператор | boshqaruvchi
+operand | операнд | amaliyotchi?
+menu | меню | ?
 system | система | tizim
 local | локальный, местный | mahalliy
 operation system | операционная система | boshqaruv tizimi
@@ -28,7 +37,7 @@ assembly | ассемблер | yig'gich, yig'uvchi
 interpreter | интерпритатор | izohlagich
 email | электронная почта | elektron pochta qutisi
 command line | коммандная строка | buyruqlar qatori
-unix shell | unix shell | yuniks shell
+unix shell | unix shell | yuniks qobiq
 shell | оболочка | qobiq
 node | узел | tugun
 function | функция | funksiya?
