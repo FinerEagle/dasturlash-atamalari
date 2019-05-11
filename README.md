@@ -5,8 +5,6 @@ Kerakli so'zni topish uchun CTRL + F tugmalarni bo'sib qidiring.
 Albatta bu lug‘atda nuqsonlar bor, balki tarjima qilinmaydigan so‘zlar ham bor.
 Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini topish.
 
-Tanqidni, takliflarni telegramda @dasturlash_com ga yozinglar.
-
 ingliz | rus | o'zbek
 --- | --- | ---
 standard | стандарт | ?
