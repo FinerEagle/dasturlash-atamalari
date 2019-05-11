@@ -7,15 +7,13 @@ Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini t
 
 Tanqidni, takliflarni telegramda @dasturlash_com ga yozinglar.
 
-Sizga shu lug'atda yo'q bo'lgan so'zlarni tarjimasi kerakmi? Telegramda @dasturlash_com ga yozing, uyalmang.
-
 ingliz | rus | o'zbek
 --- | --- | ---
 standard | стандарт | ?
 Precedence | | ustivorlik?
 Priority | | ustivorlik?
 order | | tartib
-instruction | инструкция | ko'rsatma
+instruction | инструкция | ko'rsatma, yo'riqnoma?
 operation | операция | amaliyot
 operator | оператор | boshqaruvchi
 operand | операнд | amaliyotchi?
