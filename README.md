@@ -7,6 +7,7 @@ Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini t
 
 ingliz | rus | o'zbek
 --- | --- | ---
+quote | цитата | iqtibos
 standard | стандарт | ?
 Precedence | | ustivorlik?
 Priority | | ustivorlik?
