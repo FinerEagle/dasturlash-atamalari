@@ -218,7 +218,7 @@ Star (\*) | ? | ko'paytirish belgisi
 Dash (-) | ? | ayirish belgisi
 ({) | ? | katta qavs belgisi
 Square bracket (\[) | ? | to'rtburchak qavs belgisi
-Pipe (\|) | ? | ?
+Pipe (\|) | ? | quvur
 Backward slash (\) | ? | teskari kasr belgisi
 Forward slash (/) | ? | kasr belgisi, slesh?
 Colon (:) | двоеточие | ikki nuqta
