@@ -157,7 +157,7 @@ Interval | Интервал | Oraliq
 To download | Загрузить | Yuklab olish
 To upload | Skachat, Загрузить | Yuklab qo'yish
 A download | Загрузка | Yuklanma
-Share | Поделиться | Ulashish
+Share | Поделиться | Ulashish | Baham ko'rish
 Tester | Тестер | Sinovchi
 Test | Тест | Sinov
 Privacy | Конфиденциальность | Maxfiylik
@@ -203,6 +203,7 @@ volume | hajm
 install | установка | o'rnatish
 support | поддержка | qo‘llab-quvvatlash
 publisher | издатель | noshir
+apply | применить | tatbiq qilish
 PC | ПК | ShK
 description | описание | tavsif
 hub | ? | uya (Microsoft tarjimasi, masalan - https://www.microsoft.com/uz-latn-uz/p/microsoft-to-do/9nblggh5r558?activetab=pivot:overviewtab)
