@@ -17,6 +17,10 @@ operation | операция | amaliyot
 operator | оператор | boshqaruvchi
 operand | операнд | amaliyotchi?
 menu | меню | ?
+implicit | неявный | maxfiy
+convert | преобразовывать | o'girish
+explicit | явный | ravshan
+dissect | рассекать | kesish
 system | система | tizim
 local | локальный, местный | mahalliy
 operation system | операционная система | boshqaruv tizimi
