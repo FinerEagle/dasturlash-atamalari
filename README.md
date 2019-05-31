@@ -205,8 +205,14 @@ support | поддержка | qo‘llab-quvvatlash
 publisher | издатель | noshir
 apply | применить | tatbiq qilish
 PC | ПК | ShK
+Concatenation | Конкатенация, склеивание | Yopishtirish
+Interact | Взаимодействовать | ?
+Interactive | Интерактивный, взаимодействующий | ?
+Replication | Копирование | Nusxalash
 description | описание | tavsif
 hub | ? | uya (Microsoft tarjimasi, masalan - https://www.microsoft.com/uz-latn-uz/p/microsoft-to-do/9nblggh5r558?activetab=pivot:overviewtab)
+" | кавычки | qo'shtirnoq
+' | одинарные кавычки, апостроф | bittali qo'shtirnoq
 namespace | пространство имен | nomlar fazosi
 Tilde (~) | Тильда, волнистая черта? | To'lqin chiziq?
 Sharp (#) | Решетка | Panjara
