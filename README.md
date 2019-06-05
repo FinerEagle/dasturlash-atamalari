@@ -7,6 +7,9 @@ Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini t
 
 ingliz | rus | o'zbek
 --- | --- | ---
+statement | ? | bayonot
+state | состояние | holat
+protocol | протокол | bayonnoma
 quote | цитата | iqtibos
 standard | стандарт | ?
 Precedence | | ustivorlik?
