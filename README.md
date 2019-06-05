@@ -1,9 +1,8 @@
-## O‘ylab topilgan so‘zlar bor.
+# Dasturlash atamalarining lug'ati. Axborot texnologiya atamalarining lug'ati.
+
+O‘ylab topilgan so‘zlar bor.
 
 Kerakli so'zni topish uchun CTRL + F tugmalarni bo'sib qidiring.
-
-Albatta bu lug‘atda nuqsonlar bor, balki tarjima qilinmaydigan so‘zlar ham bor.
-Lekin maqsadim - noto‘g‘ri bo‘lsa ham, atamalarning o‘zbek tarjimasini topish.
 
 ingliz | rus | o'zbek
 --- | --- | ---
