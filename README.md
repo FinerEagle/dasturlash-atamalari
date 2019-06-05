@@ -156,7 +156,7 @@ Class method | метод класса | sinfning usuli
 Method | способ | usul
 Button | Кнопка | Tugma
 Mouse | Мышка | Sichqoncha
-Arrow | Стрелка | Yo'nalishi belgilangan kesma
+Arrow | Стрелка | mil (lu'gatdan)
 Pseudo- | Псевдо- | Xayoliy, Yolg'ondakam
 Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur, Xayoliy buyum
 Section | Секция | ?
@@ -164,6 +164,7 @@ Text | Текст | Matn
 align | выравнивать | saflash, tekislash (Mukammal dasturlash kitobidan)
 Wallpaper | Обои | Gulqog'oz
 Interval | Интервал | Oraliq
+pointer | указатель | ko'rsatgich
 To download | Загрузить | Yuklab olish
 To upload | Skachat, Загрузить | Yuklab qo'yish
 A download | Загрузка | Yuklanma
