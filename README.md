@@ -9,6 +9,8 @@ ingliz | rus | o'zbek
 --- | --- | ---
 statement | ? | bayonot
 state | состояние | holat
+source code | исходный код | manba kodi
+code | код | kod
 protocol | протокол | bayonnoma
 quote | цитата | iqtibos
 standard | стандарт | ?
@@ -36,6 +38,7 @@ heading | заголовок | sarlavha
 metadata | метаданные | tavsif xabar
 application | приложение | ilova
 project | проект | loyiha
+convention | соглашение | kelishuv, kelishilingan odat
 compiler | компилятор | tuzgich, tuzuvchi
 assembly | ассемблер | yig'gich, yig'uvchi
 interpreter | интерпритатор | izohlagich
