@@ -21,11 +21,12 @@ instruction | инструкция | ko'rsatma, yo'riqnoma?
 operation | операция | amaliyot
 operator | оператор | boshqaruvchi
 operand | операнд | amaliyotchi?
-menu | меню | ?
+menu | меню | imkoniyatlar ro'yxati, imkoniyatnoma?
+hot key, hotkey, shortcut | горячая клавиша | qisqa tugma
 implicit | неявный | maxfiy
 convert | преобразовывать | o'girish
 explicit | явный | ravshan
-dissect | рассекать | kesish
+dissect | рассекать | kesib o'rganish
 system | система | tizim
 local | локальный, местный | mahalliy
 operation system | операционная система | boshqaruv tizimi
@@ -116,8 +117,10 @@ negative | отрицательный | manfiy
 modulo | остаток от деления | qoldiq
 compare | сравнивание | taqqoslash
 logic | логика | mantiq
+container | контейнер, сосуд | idish
 object | объект | ?
 run time | время выполнения | bajarilish vaqti
+run | запустить | ishga tushirish
 virtual machine | виртуальная машина | tasavvurdagi qurilma
 software | программное обеспечение | dasturiy ta'minot
 hardware | аппаратное обчеспечение | qurilmaviy ta'minot? (texnik ta'minot)
@@ -146,6 +149,7 @@ pause | пауза | to'xtash
 contatenation | конкатенация | birlashtirish, qo'shish
 spread | ? | ?
 hash | хеш | ?
+comment | комментарий | sharh, izoh
 cache | кеш | kash (ingliz tilidan olingan, shu deb 'kesh' emas) ?
 Absolute | Абсолютный | Mutloq
 Relative | Относительный | Nisbiy
@@ -187,7 +191,7 @@ Document | Документ | Hujjat
 Anchor | Якорь | Langar
 Paragraph | Параграф | Xat boshi
 Input | Ввод | Kiritish
-Output | Вывод | Chiqarish
+Output | Вывод | Mahsulot
 Field | Поле | Maydoncha
 Placeholder | Заполнитель | To'ldirgich
 Default | По умолчанию | Odatiy qiymat
