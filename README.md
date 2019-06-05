@@ -229,7 +229,9 @@ At (@) | ? | kuchukcha belgisi
 Percent (%) | ? | foiz belgisi
 (^) | ? | ?
 Star (\*) | ? | ko'paytirish belgisi
-Dash (-) | ? | ayirish belgisi
+dash (–) | тире | chiziq
+hyphen (‐) | дефис | chiziqcha
+minus sign (−) | минус | ayirish belgisi
 ({) | ? | katta qavs belgisi
 Square bracket (\[) | ? | to'rtburchak qavs belgisi
 Pipe (\|) | ? | quvur
