@@ -32,8 +32,14 @@ operation system | операционная система | boshqaruv tizimi
 server | server | xizmatchi
 deploy | развертывать | tayyorlab joylamoq
 settings | настройки | sozlamalar
+paragraph | параграф | xat boshi
 program | программа | dastur
 to display | отображать | akslantirish (Mukammal dasturlash kitobidan)
+a display | экран | ekran
+execute | выполнить | bajarmoq
+to pass | передавать | uzatmoq yoki topshirmoq
+argument | аргумент | ?
+parameter | параметр | ?
 heading | заголовок | sarlavha
 metadata | метаданные | tavsif xabar
 application | приложение | ilova
@@ -239,6 +245,8 @@ Star (\*) | ? | ko'paytirish belgisi
 dash (–) | тире | chiziq
 hyphen (‐) | дефис | chiziqcha
 minus sign (−) | минус | ayirish belgisi
+parenthesis ( ) | скобка | qavs
+bracket, square bracket | квадратная скобка | to'rtburchak qavs
 ({) | ? | katta qavs belgisi
 Square bracket (\[) | ? | to'rtburchak qavs belgisi
 Pipe (\|) | ? | quvur
