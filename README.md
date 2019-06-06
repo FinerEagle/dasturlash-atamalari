@@ -91,7 +91,7 @@ integer | целое число | butun son
 tuple | кортеж | shoda? dasta? (связка)
 float | число с плавающей точкой (дробное число) | kasr son
 double | число с плавающей точкой двойной точности | aniqlik darajasi ikkiga teng bulgan kasr son
-text editor | текстовый редактор | matn muharriri
+text editor | текстовый редактор | matn muharriri, matn tahrirlovchisi
 extension | расширение | kengaytma
 browser | браузер | brauzer?
 computer | компьютер | kompyuter
@@ -109,12 +109,13 @@ hyperlink | гиперссылка | giper-havola
 property | свойство | xususiyat
 mode | режим | tuzum? tartibot?
 model | модель | andoza
-format | формат | shakl?
+format | формат | shakl?, tuzilish?, tuzilish turi?
 start | запуск | ishga tushirmoq
 framework | фреймворк | sinch
 library | библиотека | kutubxona
 style | стиль | uslub, bezak
 event | событие | hodisa
+file | файл | fayl?
 table | таблица | jadval
 audio | звук, аудио | tovush
 circle | круг | doira
@@ -135,7 +136,7 @@ hardware | аппаратное обчеспечение | qurilmaviy ta'minot? 
 script | скрипт | dastur? bajariladigan buyruqlar ketma ketligi
 account | учетная запись | qayd yozuvi, hisob qaydnomasi (`Microsoft launcher for Android` dan olingan)
 dimension | измерение | o'lcham
-assign | назначить, присвоить | biriktirish?
+assign | назначить, присвоить | biriktirish?, tayinlash?
 print | печатать | bosish, сhop etish
 category | категория | toifa
 archive | архив | xazina
@@ -155,7 +156,7 @@ real | настоящий, реальный | haqiqiy
 boolean type | булевый тип, логический тип | mantiqiy tur
 pause | пауза | to'xtash
 contatenation | конкатенация | birlashtirish, qo'shish
-spread | ? | ?
+spread | ? | tarqatish
 hash | хеш | ?
 comment | комментарий | sharh, izoh
 cache | кеш | kash (ingliz tilidan olingan, shu deb 'kesh' emas) ?
@@ -169,8 +170,8 @@ Method | способ | usul
 Button | Кнопка | Tugma
 Mouse | Мышка | Sichqoncha
 Arrow | Стрелка | mil (lu'gatdan)
-Pseudo- | Псевдо- | Xayoliy, Yolg'ondakam
-Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur, Xayoliy buyum
+Pseudo- | Псевдо- | Yolg'ondakam
+Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur
 Section | Секция | ?
 Text | Текст | Matn
 align | выравнивать | saflash, tekislash (Mukammal dasturlash kitobidan)
@@ -180,7 +181,7 @@ pointer | указатель | ko'rsatgich
 To download | Загрузить | Yuklab olish
 To upload | Skachat, Загрузить | Yuklab qo'yish
 A download | Загрузка | Yuklanma
-Share | Поделиться | Ulashish | Baham ko'rish
+Share | Поделиться | Ulashish, Baham ko'rish
 Tester | Тестер | Sinovchi
 Test | Тест | Sinov
 Privacy | Конфиденциальность | Maxfiylik
@@ -190,7 +191,7 @@ Terms of service | Правила предоставления услуг | Xizm
 Privacy policy | Политика конфиденциальности | Maxfiylik siyosati
 Accessibility | Доступность | Ochiqlik, Hammaboplik
 Dropdown | Выпадающий список | Tushib keluvchi ro'yxat
-Virtual reality | Виртуальная реальность | Hayoliy voqelik
+Virtual reality | Виртуальная реальность | Tasavvurdagi voqelik, Hayoliy voqelik
 Augmented reality | Дополненная реальность | To'ldirilgan voqelik, Aralashgan voqelik
 Feedback form | Форма обратной связи | Bog'lanish so'ro'vnomasi
 Form | Форма | So'ro'vnoma
@@ -215,7 +216,7 @@ Optional | Необязательный | Ixtiyoriy
 checkbox | флажок | tasdiqlash qutisi
 radio button | радио кнопка | radio tugma?
 select | выбрать | tanlash
-textarea | ? | ?
+textarea | ? | katta matn darchasi?
 media | медиа | ?
 user | пользователь | foydalanuvchi
 specification | спецификация | ?
