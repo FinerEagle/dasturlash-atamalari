@@ -24,6 +24,9 @@ menu | меню | imkoniyatlar ro'yxati, imkoniyatnoma?
 hot key, hotkey, shortcut | горячая клавиша | qisqa tugma
 implicit | неявный | maxfiy
 convert | преобразовывать | o'girish
+to round | округлять | yaxlitlash
+to floor | округлять вверх | yuqoriga yaxlitlash
+to ceil | округлять вниз | pastga yaxlitlash
 explicit | явный | ravshan
 dissect | рассекать | kesib o'rganish
 system | система | tizim
