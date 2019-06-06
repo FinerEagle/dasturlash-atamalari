@@ -13,9 +13,9 @@ code | код | kod
 protocol | протокол | bayonnoma
 quote | цитата | iqtibos
 standard | стандарт | ?
-Precedence | | ustivorlik?
-Priority | | ustivorlik?
-order | | tartib
+Precedence | первостепенность? | ustivorlik?
+Priority | приоритет | ustivorlik?
+order | порядок | tartib
 instruction | инструкция | ko'rsatma, yo'riqnoma?
 operation | операция | amaliyot
 operator | оператор | boshqaruvchi
@@ -31,7 +31,7 @@ explicit | явный | ravshan
 dissect | рассекать | kesib o'rganish
 system | система | tizim
 local | локальный, местный | mahalliy
-operation system | операционная система | boshqaruv tizimi
+operating system | операционная система | boshqaruv tizimi
 server | server | xizmatchi
 deploy | развертывать | tayyorlab joylamoq
 settings | настройки | sozlamalar
