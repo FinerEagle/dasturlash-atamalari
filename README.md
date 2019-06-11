@@ -4,11 +4,12 @@ O‘ylab topilgan so‘zlar bor.
 
 Kerakli so'zni topish uchun CTRL + F tugmalarni bo'sib qidiring.
 
-ingliz | rus | o'zbek
+ingliz | rus | O'ZBEK
 --- | --- | ---
 statement | ? | bayonot
 state | состояние | holat
 source code | исходный код | manba kodi
+valid | ? | yaroqli, joiz
 code | код | kod
 protocol | протокол | bayonnoma
 quote | цитата | iqtibos
@@ -25,6 +26,7 @@ hot key, hotkey, shortcut | горячая клавиша | qisqa tugma
 implicit | неявный | maxfiy
 convert | преобразовывать | o'girish
 to round | округлять | yaxlitlash
+flow control | ? | oqim boshqaruvi
 to floor | округлять вверх | yuqoriga yaxlitlash
 to ceil | округлять вниз | pastga yaxlitlash
 explicit | явный | ravshan
