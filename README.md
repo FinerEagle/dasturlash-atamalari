@@ -14,6 +14,7 @@ code | код | kod
 protocol | протокол | bayonnoma
 quote | цитата | iqtibos
 standard | стандарт | ?
+standard | стандартный | oddiy?
 Precedence | первостепенность? | ustivorlik?
 Priority | приоритет | ustivorlik?
 order | порядок | tartib
@@ -45,6 +46,7 @@ execute | выполнить | bajarmoq
 to pass | передавать | uzatmoq yoki topshirmoq
 argument | аргумент | ?
 parameter | параметр | ?
+syntax | синтаксис | tuzilish qoidalari
 heading | заголовок | sarlavha
 metadata | метаданные | tavsif xabar
 application | приложение | ilova
@@ -87,7 +89,7 @@ list | список | ro'yxat
 character | знак | belgi
 abstract | абстрактный | mavhum
 virtual | виртуальный | tasavvurdagi, xayoliy
-string | строка | satr
+string | строка | matn?, satr
 line | строка | qator
 integer | целое число | butun son
 tuple | кортеж | shoda? dasta? (связка)
@@ -191,7 +193,7 @@ Notification | Уведомление | Bildirishnoma
 Subsription | Подписка | Obuna
 Terms of service | Правила предоставления услуг | Xizmat ko'rsatish shartlari
 Privacy policy | Политика конфиденциальности | Maxfiylik siyosati
-Accessibility | Доступность | Ochiqlik, Hammaboplik
+Accessibility | Доступность | Hammaboplik
 Dropdown | Выпадающий список | Tushib keluvchi ro'yxat
 Virtual reality | Виртуальная реальность | Tasavvurdagi voqelik, Hayoliy voqelik
 Augmented reality | Дополненная реальность | To'ldirilgan voqelik, Aralashgan voqelik
@@ -225,7 +227,7 @@ specification | спецификация | ?
 analysis | анализ | tahlil
 device | устройство | qurilma
 size | размер | o'lcham
-volume | hajm
+volume | hajm | ?
 install | установка | o'rnatish
 support | поддержка | qo‘llab-quvvatlash
 publisher | издатель | noshir
@@ -233,7 +235,7 @@ apply | применить | tatbiq qilish
 PC | ПК | ShK
 Concatenation | Конкатенация, склеивание | Yopishtirish
 Interact | Взаимодействовать | ?
-Interactive | Интерактивный, взаимодействующий | ?
+Interactive | Интерактивный, взаимодействующий | o'zarofaol
 Replication | Копирование | Nusxalash
 description | описание | tavsif
 hub | ? | uya (Microsoft tarjimasi, masalan - https://www.microsoft.com/uz-latn-uz/p/microsoft-to-do/9nblggh5r558?activetab=pivot:overviewtab)
