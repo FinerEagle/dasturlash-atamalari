@@ -233,7 +233,7 @@ support | поддержка | qo‘llab-quvvatlash
 publisher | издатель | noshir
 apply | применить | tatbiq qilish
 PC | ПК | ShK
-Concatenation | Конкатенация, склеивание | Yopishtirish
+Concatenation | Конкатенация, склеивание | birlashtirish, yopishtirish
 Interact | Взаимодействовать | ?
 Interactive | Интерактивный, взаимодействующий | o'zarofaol
 Replication | Копирование | Nusxalash
