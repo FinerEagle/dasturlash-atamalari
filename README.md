@@ -103,7 +103,7 @@ electronic board | электронная плата | elektron taxtasi?
 random access memory | оперативная память | tezkor xotira?
 hard disk drive | жесткий диск | qattik disk, doimiy xotira?
 motherboard | материнская плата | ona taxtasi?
-keyboard | клавиатура | tugmalar taxtasi? matn kiritish qurilmasi
+keyboard | клавиатура | tugmataxta?, tugmalar taxtasi? matn kiritish qurilmasi
 web | веб | dunyoviy to'r?
 net | сеть | to'r
 quotes | кавычки | qo'shtirnoq
