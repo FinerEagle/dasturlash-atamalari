@@ -90,6 +90,7 @@ character | знак | belgi
 abstract | абстрактный | mavhum
 virtual | виртуальный | tasavvurdagi, xayoliy
 string | строка | matn?, satr
+import | импорт | olib kirish?
 line | строка | qator
 integer | целое число | butun son
 tuple | кортеж | shoda? dasta? (связка)
@@ -204,7 +205,7 @@ Document | Документ | Hujjat
 Anchor | Якорь | Langar
 Paragraph | Параграф | Xat boshi
 Input | Ввод | Kiritish
-Output | Вывод | Mahsulot
+Output | Вывод | chiqim
 Field | Поле | Maydoncha
 Placeholder | Заполнитель | To'ldirgich
 Default | По умолчанию | Odatiy qiymat
