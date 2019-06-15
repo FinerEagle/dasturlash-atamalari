@@ -204,7 +204,7 @@ Attribute | Атрибут | Alomat (Mukammal dasturlash kitobidan)
 Document | Документ | Hujjat
 Anchor | Якорь | Langar
 Paragraph | Параграф | Xat boshi
-Input | Ввод | Kiritish
+Input | Ввод | Kirim
 Output | Вывод | chiqim
 Field | Поле | Maydoncha
 Placeholder | Заполнитель | To'ldirgich
