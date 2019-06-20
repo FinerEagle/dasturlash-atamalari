@@ -9,6 +9,7 @@ ingliz | rus | O'ZBEK
 statement | ? | bayonot
 state | состояние | holat
 source code | исходный код | manba kodi
+subheading | подзаголовок | qo'shimcha sarlavha
 valid | ? | yaroqli, joiz
 code | код | kod
 protocol | протокол | bayonnoma
