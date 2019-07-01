@@ -50,6 +50,7 @@ parameter | параметр | ?
 syntax | синтаксис | tuzilish qoidalari
 heading | заголовок | sarlavha
 metadata | метаданные | tavsif xabar
+case | регистр | ?
 application | приложение | ilova
 project | проект | loyiha
 convention | соглашение | kelishuv, kelishilingan odat
