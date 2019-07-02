@@ -191,6 +191,7 @@ A download | Загрузка | Yuklanma
 Share | Поделиться | Ulashish, Baham ko'rish
 Tester | Тестер | Sinovchi
 Test | Тест | Sinov
+block | блок | bo'linma
 Privacy | Конфиденциальность | Maxfiylik
 Notification | Уведомление | Bildirishnoma
 Subsription | Подписка | Obuna
