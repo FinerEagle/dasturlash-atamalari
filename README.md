@@ -248,27 +248,27 @@ Interactive | Интерактивный, взаимодействующий | o
 Replication | Копирование | Nusxalash
 description | описание | tavsif
 hub | ? | uya (Microsoft tarjimasi, masalan - https://www.microsoft.com/uz-latn-uz/p/microsoft-to-do/9nblggh5r558?activetab=pivot:overviewtab)
-" | кавычки | qo'shtirnoq
-' | одинарные кавычки, апостроф | bittali qo'shtirnoq
 namespace | пространство имен | nomlar fazosi
+quotes, quotation mark (") | кавычки, кавычка | tirnoq belgisi, qo'shtirnoq
+' | одинарные кавычки, апостроф | bittali qo'shtirnoq
 Tilde (~) | Тильда, волнистая черта? | To'lqin chiziq?
 Sharp (#) | Решетка | Panjara
 Backtick (\`) | ? | ?
-Exclamation mark, Bang (!) | ? | undov belgisi
-At (@) | ? | kuchukcha belgisi
-Percent (%) | ? | foiz belgisi
+Exclamation mark, Bang (!) | восклицательный знак | undov belgisi
+At (@) | собачка | chig'anoq belgisi
+Percent (%) | процент | foiz belgisi
 (^) | ? | ?
-Star (\*) | ? | ko'paytirish belgisi
+Star (\*) | звездочка | ko'paytirish belgisi
 dash (–) | тире | chiziq
 hyphen (‐) | дефис | chiziqcha
 minus sign (−) | минус | ayirish belgisi
 parenthesis ( ) | скобка | qavs
 bracket, square bracket | квадратная скобка | to'rtburchak qavs
 ({) | ? | katta qavs belgisi
-Square bracket (\[) | ? | to'rtburchak qavs belgisi
-Pipe (\|) | ? | quvur
-Backward slash (\) | ? | teskari kasr belgisi
-Forward slash (/) | ? | kasr belgisi, slesh?
+Square bracket (\[) | квадратная скобка | to'rtburchak qavs belgisi
+Pipe (\|) | Палка | quvur
+Backward slash (\) | обратный слеш | teskari kasr belgisi
+Forward slash (/) | слеш | kasr belgisi, slesh?
 Colon (:) | двоеточие | ikki nuqta
 Semicolon (;) | точка с запятой | nuqta vergul
 Greater (>) | больше | katta belgisi
