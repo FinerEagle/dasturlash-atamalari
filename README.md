@@ -7,6 +7,8 @@ Kerakli so'zni topish uchun CTRL + F tugmalarni bo'sib qidiring.
 ingliz | rus | O'ZBEK
 --- | --- | ---
 statement | ? | bayonot
+performance | производительность | mahsuldorlik
+productivity | продуктивность | unumdorlik
 state | состояние | holat
 source code | исходный код | manba kodi
 subheading | подзаголовок | qo'shimcha sarlavha
@@ -193,6 +195,9 @@ Tester | Тестер | Sinovchi
 Test | Тест | Sinov
 block | блок | bo'linma
 Privacy | Конфиденциальность | Maxfiylik
+standard | стандарт | meyor
+customize | кастомизировать? | shaxsiylashtirish
+feed | лента | tasma
 Notification | Уведомление | Bildirishnoma
 Subsription | Подписка | Obuna
 Terms of service | Правила предоставления услуг | Xizmat ko'rsatish shartlari
