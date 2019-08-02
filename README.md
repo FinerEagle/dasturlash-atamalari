@@ -16,7 +16,7 @@ valid | ? | yaroqli, joiz
 code | код | kod
 protocol | протокол | bayonnoma
 quote | цитата | iqtibos
-standard | стандарт | ?
+standard | стандарт | me'yor
 standard | стандартный | oddiy?
 Precedence | первостепенность? | ustivorlik?
 Priority | приоритет | ustivorlik?
