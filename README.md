@@ -202,7 +202,7 @@ Notification | Уведомление | Bildirishnoma
 Subsription | Подписка | Obuna
 Terms of service | Правила предоставления услуг | Xizmat ko'rsatish shartlari
 Privacy policy | Политика конфиденциальности | Maxfiylik siyosati
-Accessibility | Доступность | Hammaboplik
+Accessibility | Доступность | Hammaboplik, Hamyonboplik
 Dropdown | Выпадающий список | Tushib keluvchi ro'yxat
 Virtual reality | Виртуальная реальность | Tasavvurdagi voqelik, Hayoliy voqelik
 Augmented reality | Дополненная реальность | To'ldirilgan voqelik, Aralashgan voqelik
