@@ -1,5 +1,7 @@
 # Dasturlash atamalarining lug'ati. Axborot texnologiya atamalarining lug'ati.
 
+Men tilshunos emasman. O'zbek tilini yaxshi bilmayman ham. Bu lug'at tog'ri deb da'vo qilmayman.
+
 O‘ylab topilgan so‘zlar bor.
 
 Kerakli so'zni topish uchun CTRL + F tugmalarni bo'sib qidiring.
