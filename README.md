@@ -94,7 +94,8 @@ array | массив | mavze
 list | список | ro'yxat
 character | знак | belgi
 abstract | абстрактный | mavhum
-virtual | виртуальный | tasavvurdagi, xayoliy
+virtual | виртуальный | xayoliy, tasavvurdagi
+virtuality | виртуальность | xayolot
 string | строка | matn?, satr
 import | импорт | olib kirish?
 line | строка | qator
@@ -206,7 +207,7 @@ Terms of service | Правила предоставления услуг | Xizm
 Privacy policy | Политика конфиденциальности | Maxfiylik siyosati
 Accessibility | Доступность | Hammaboplik, Hamyonboplik
 Dropdown | Выпадающий список | Tushib keluvchi ro'yxat
-Virtual reality | Виртуальная реальность | Tasavvurdagi voqelik, Hayoliy voqelik
+Virtual reality | Виртуальная реальность | Xayoliy voqelik, Tasavvurdagi voqelik
 Augmented reality | Дополненная реальность | To'ldirilgan voqelik, Aralashgan voqelik
 Feedback form | Форма обратной связи | Bog'lanish so'ro'vnomasi
 Form | Форма | So'ro'vnoma
