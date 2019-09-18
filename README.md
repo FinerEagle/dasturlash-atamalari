@@ -153,6 +153,9 @@ print | печатать | bosish, сhop etish
 category | категория | toifa
 archive | архив | xazina
 administrator | администратор | ma’mur
+bookmark | закладка | xatcho'p
+personalize | ? | moslashtirish
+fact | факт | dalil
 database | база данных | ma’lumotlar ombori
 procedure | процедура | muolaja
 tag | тег | yorliq (lug'atdan)
@@ -181,7 +184,7 @@ Class method | метод класса | sinfning usuli
 Method | способ | usul
 Button | Кнопка | Tugma
 Mouse | Мышка | Sichqoncha
-Arrow | Стрелка | mil (lu'gatdan)
+Arrow | Стрелка | o'q, mil (lu'gatdan)
 Pseudo- | Псевдо- | Yolg'ondakam
 Pseudoelement | Псевдоэлемент | Yolg'ondakam unsur
 Section | Секция | ?
